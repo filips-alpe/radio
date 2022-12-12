@@ -1,3 +1,3 @@
 # radio
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-vyhohn)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/my-radio)
